@@ -115,6 +115,10 @@ swiper-container::part(button-next) {
 </style>
 
 <style lang="less" scoped>
+*{
+    margin: 0;
+    padding: 0;
+}
 .note-container {
     border-radius: 10%;
 
