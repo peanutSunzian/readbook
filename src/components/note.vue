@@ -209,6 +209,7 @@ swiper-container::part(button-next) {
             .active {
                 background: #fff;
                 color: red;
+                font-size: larger;
             }
 
         }
