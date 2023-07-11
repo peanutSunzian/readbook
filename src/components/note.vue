@@ -211,6 +211,7 @@ swiper-container::part(button-next) {
                 color: red;
                 font-size: larger;
                 border-radius: 30%;
+                margin: 0 auto;
             }
 
         }
