@@ -204,10 +204,12 @@ swiper-container::part(button-next) {
                 z-index: 2;
                 cursor: pointer;
                 transition: background .3s;
+                opacity: .5;
             }
 
             .active {
                 background: #fff;
+                
             }
 
         }
