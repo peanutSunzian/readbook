@@ -210,6 +210,7 @@ swiper-container::part(button-next) {
                 background: #fff;
                 color: red;
                 font-size: larger;
+                border-radius: 30%;
             }
 
         }
